@@ -15,29 +15,6 @@ app.patch('/edit/:id',(req,res)=>{
 
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 app.listen(PORT,()=>{
 
     console.log("server running")
