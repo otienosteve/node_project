@@ -24,11 +24,26 @@
 ,"Moi came to power in 1978, upon the death of President Jomo Kenyatta, having been vice-president until then",
 "He succeeded in keeping Kenya relatively stable compared with many of its troubled neighbours at the time, working for regional peace. But he floundered badly on the economy, which regressed under his watch, and he failed to tackle deepening poverty and rampant corruption.",
 "Kanu remained in place until 1991, when Moi caved in to international pressure to reintroduce multi-party politics."
-],
-    "years_reigned":"",
-    "status":"",
-    "succeded":"",
-    "links":""}
+,"Moi's popularity fell around 1990 as the economy stagnated after the end of the Cold War. Following the agitation and external pressure, he was forced to allow multiparty elections in 1991; he then led his party, KANU, to victory in the 1992 and 1997 elections",
+" Constitutionally barred from seeking a third term, Moi chose Uhuru Kenyatta as his successor, but Kenyatta was defeated by opposition leader Mwai Kibaki in the 2002 general election and Kibaki replaced Moi as president.",
+""],
+    "years_reigned":"22 August 1978 – 30 December 2002 (24 years)",
+    "status":"deceased",
+    "succeded":"Mwai Kibaki",
+    "links":["https://en.wikipedia.org/wiki/Daniel_arap_Moi", "https://www.theguardian.com/world/2020/feb/04/daniel-arap-moi-former-president-of-kenya-dies-aged-95"]}
+,
+{"name":"",
+"photo":"",
+"country":"",
+"national_flag":"",
+"Facts":[],
+"years_reigned":"",
+"status":"",
+"succeded":"",
+"links":""}
+
+
+
 ,
     {"name":"",
     "photo":"",
